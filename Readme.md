@@ -1,7 +1,16 @@
-# APP DEL CLIMA!
+<p align="center">
+   <img  src = "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg" altura = "220" /> 
+</p>
+<div align= "center" > 
 
-Esta es solo una simple página para consultar el clima. Es parte de los proyectos que tenia guardados y ahora dedico algo de tiempo en los ratos libres 😍💪😀
-La idea es mejorar este codigo aplicando los principios SOLID y utilizar nuevas tecnologias como React, css Modules, WebPack
+# Workshop STARWARS 
+
+</div>
+ <h3> 👋 ¡Hola Soy Hernán! </h3>
+
+Esto es solo un simple workshop con una API de starwars. 
+Es parte de los proyectos que tenia guardados y ahora dedico algo de tiempo en los ratos libres 😍💪😀
+La idea es mejorar este codigo aplicando los principios SOLID y utilizar nuevas tecnologias como React, Redux, css Modules, WebPack
 
 ## Construido con 🛠️
 
@@ -9,16 +18,10 @@ La idea es mejorar este codigo aplicando los principios SOLID y utilizar nuevas 
 
 Utilizo una Api que devuelve un Json. Utilizo Html, css, Javascript, Bootstrap.
 
-## Contribuyendo 🖇️
-
-Agregue a un amigo al proyecto con el fin de realizar varias ramas y y ordenar el gitFlow. Sin dudas colaborando y nutriendose de colegas es cuádo más se aprende. Gracias Marian!
-
-* mgiagante
-
 ## Autores ✒️
 * Hbonavota.
 
-Fué un TP que realice hace un año y medio en PLATAFORMA5 (Buenos Aires, Argentina), cuando me iniciaba en la Programación y el Diseño Web. 
+Fué un TP que realice hace un año y medio en CODERHOUSE, cuando me iniciaba en la Programación y el Diseño Web. 
 
 ## Expresiones de Gratitud 🎁
 
